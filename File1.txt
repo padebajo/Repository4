@@ -1,2 +1,5 @@
 Welcome to edureka
 Welcome to software testing fundamental batch
+
+Welcome to AI/ML batch
+Welcome to data science
